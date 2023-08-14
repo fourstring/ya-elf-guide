@@ -1,6 +1,7 @@
-# A Guide to Linking and Loading ELF Files
-
-[TOC]
+---
+permalink: /guide_zh
+title: A Guide to Linking and Loading ELF Files
+---
 
 ## a story of --enable-pie
 
