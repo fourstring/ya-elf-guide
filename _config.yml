@@ -19,7 +19,7 @@ remote_theme: kitian616/jekyll-TeXt-theme
 text_skin: default # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
 highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     : # the base hostname & protocol for your site e.g. https://www.someone.com
-baseurl : # does not include hostname
+baseurl : /ya-elf-guide # does not include hostname
 title   : Ya-ELF-Guide
 description: > # this means to ignore newlines until "Language & timezone"
   Yet another guide to linking and loading ELF files, seeking for clarity, coherence and comprehensiveness.
