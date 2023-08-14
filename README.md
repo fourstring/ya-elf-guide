@@ -1,6 +1,6 @@
 # Yet Another Guide to Linking and Loading ELF Files
 
-[阅读本文中文版](https://fourstring.github.io/ya-elf-guide)
+[阅读本文中文版](https://fourstring.github.io/ya-elf-guide/guide_zh)
 
 ## 前置知识
 

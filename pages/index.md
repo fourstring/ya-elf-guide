@@ -3,7 +3,7 @@ permalink: /
 title: Yet Another Guide to Linking and Loading ELF Files
 ---
 
-[阅读本文中文版](/guide_zh)
+[阅读本文中文版]({{ site.baseurl }}/guide_zh)
 
 ## 前置知识
 
